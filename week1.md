@@ -32,7 +32,7 @@ I solved the first five levels of the over the wire: Bandit. The tasks were not 
 ## Hacker warmup
 The tasks on WebGoat were a bit difficult to complete. It was difficult to find answer for some of the questions. Below are the screenshots that I took while completing the tasks.
 
+<img src="https://github.com/BhaGur/InfoSec/blob/main/httpbasics.png" width="700" height="350"> 
 <img src="https://github.com/BhaGur/InfoSec/blob/main/devtools.png" width="700" height="350"> 
 <img src="https://github.com/BhaGur/InfoSec/blob/main/devtools2.png" width="700" height="350"> 
-<img src="https://github.com/BhaGur/InfoSec/blob/main/httpbasics.png" width="700" height="350"> 
 
