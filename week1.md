@@ -17,6 +17,7 @@ I learned the command line during the server technology course. I have used it d
 Some of the basic commands are as follows:
 *	$ pwd prints the working directory
 *	$ ls prints the list of working directory
+* $ cd .. changes directory up
 
 ## Bandit oh-five
 I solved the first five levels of the over the wire: Bandit. The tasks were not that difficult as the commands used for the first five tasks were what I have used previously. Below are some of the screenshots that I saved while completing the tasks.
