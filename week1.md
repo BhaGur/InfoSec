@@ -22,6 +22,11 @@ Some of the basic commands are as follows:
 I solved the first five levels of the over the wire: Bandit. The tasks were not that difficult as the commands used for the first five tasks were what I have used previously. Below are some of the screenshots that I saved while completing the tasks.
 
 <img src="https://github.com/BhaGur/InfoSec/blob/main/bandit0.png" width="400" height="150"> 
+<img src="https://github.com/BhaGur/InfoSec/blob/main/bandit1.png" width="400" height="150"> 
+<img src="https://github.com/BhaGur/InfoSec/blob/main/bandit2.png" width="400" height="150"> 
+<img src="https://github.com/BhaGur/InfoSec/blob/main/bandit3.png" width="400" height="150"> 
+<img src="https://github.com/BhaGur/InfoSec/blob/main/bandit4.png" width="400" height="150"> 
+
 
 
 ## Hacker warmup
