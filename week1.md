@@ -16,7 +16,7 @@
 I learned the command line during the server technology course. I have used it during the course but as the course was not intensive, I used the basic command line in the course. The article Command Line Basics Revisited helped me to refresh the command lines.
 Some of the basic commands are as follows:
 *	$ pwd prints the working directory
-*	$ls prints the list of working directory
+*	$ ls prints the list of working directory
 
 ## Bandit oh-five
 I solved the first five levels of the over the wire: Bandit. The tasks were not that difficult as the commands used for the first five tasks were what I have used previously. Below are some of the screenshots that I saved while completing the tasks.
@@ -27,12 +27,14 @@ I solved the first five levels of the over the wire: Bandit. The tasks were not 
 <img src="https://github.com/BhaGur/InfoSec/blob/main/bandit3.png" width="400" height="150"> 
 <img src="https://github.com/BhaGur/InfoSec/blob/main/bandit4.png" width="400" height="150"> 
 
-
-
 ## Hacker warmup
 The tasks on WebGoat were a bit difficult to complete. It was difficult to find answer for some of the questions. Below are the screenshots that I took while completing the tasks.
 
 <img src="https://github.com/BhaGur/InfoSec/blob/main/httpbasics.png" width="700" height="350"> 
 <img src="https://github.com/BhaGur/InfoSec/blob/main/devtools.png" width="700" height="350"> 
 <img src="https://github.com/BhaGur/InfoSec/blob/main/devtools2.png" width="700" height="350"> 
+
+### References
+* Hutchins et al 2011: Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains, chapters Abstract, 3.2 Intrusion Kill Chain and 3.3 Courses of Action
+* Karvinen 2020: Command Line Basics Revisited
 
