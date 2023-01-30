@@ -1,5 +1,7 @@
+# Week 2 Assignments
+This file tasks for the assignments for Information security course. It conatins the step I did while performing the tasks for the assignment.
 
-Security misconfiguration
+## Security misconfiguration
 *	A lapse in the security architecture causes vulnerability of applications
 *	Main causes for security main configuration are missing of appropriate security in application
 *	It may happen also if unnecessary features are enabled or installed or the software used are out of date
@@ -11,7 +13,7 @@ Security misconfiguration
 *	Hardening of security and segmentation of the application architecture
 *	Removal of unwanted or unused features
 
-Vulnerable and Outdated components
+## Vulnerable and Outdated components
 *	This vulnerability concerns with the versions of the components on both client and server side.
 *	This usually is because of the unsecure, out of date software in the server including the OS, application server, DATABASE, an all components
 *	Not testing the compatibility of updated, upgraded or patched library leaving organization exposed to vulnerabilities
@@ -29,15 +31,15 @@ Injection
 *	To prevent injection, application should use safe API
 *	Remove any unwanted injection by limiting control in SQL queries
 
-CVE-2022-46689
+## CVE-2022-46689
 *	A vulnerability seen in Apple macOS which abled an app to execute arbitrary code with kernel privileges.
 *	The severity of the CVE was 7.0 high according to CVSS version 3.x. The impact score was 5.9.
 *	Attack vector was Local and Attack complexity was high.
 *	It required user interaction.
 *	It affected software configurations in safari, ipados, iphone_os, macos.
 
-SQLZOO
-0 SELECT basics
+## SQLZOO
+## 0 SELECT basics
 *	The chapter dealt with introducing some simple queries
 *	The chapter was easy as the instructions were given and we just needed to make some changes in the queries to get the required answer
 *	After the chapter was completed, I did the quiz where I was to select correct queries
@@ -45,11 +47,13 @@ SQLZOO
 *	The chapter deals with use of ‘LIKE’ in queries
 *	I had to modify the given query to find the answer
 *	The first 10 queries were easier ones but the last few were a bit harder.
-2 SELECT world
+
+## 2 SELECT world
 *	The chapter deals with the use of SELECT in queries
 *	I had to write queries to find correct answers from the WORLD table
 *	I was required to do till sub task 5 but I did till subtask 10.
-WEBGOAT Injection (Intro)
+
+## WEBGOAT Injection (Intro)
 *	Using SQL queries for managing relational databases and perform operations on the data in the database
 *	Data Manipulation Language (DML) is the manipulation of the SQL statement used by attacker to manipulate the database
 *	After each sub chapter, I had to do an assignment. I had to update a SQL query as below.
