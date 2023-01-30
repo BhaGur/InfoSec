@@ -45,9 +45,6 @@ This file tasks for the assignments for Information security course. It conatins
 *	The chapter was easy as the instructions were given and we just needed to make some changes in the queries to get the required answer
 *	After the chapter was completed, I did the quiz where I was to select correct queries
 <img src="https://github.com/BhaGur/InfoSec/blob/main/sqlzoo1.png" width="400" height="150"> 
-<img src="https://github.com/BhaGur/InfoSec/blob/main/bandit0.png" width="400" height="150"> 
-
-
 
 ### 1 SELECT name (voluntary)
 *	The chapter deals with use of ‘LIKE’ in queries
