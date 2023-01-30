@@ -40,16 +40,17 @@ This file tasks for the assignments for Information security course. It conatins
 *	It affected software configurations in safari, ipados, iphone_os, macos.
 
 ## SQLZOO
-## 0 SELECT basics
+### 0 SELECT basics
 *	The chapter dealt with introducing some simple queries
 *	The chapter was easy as the instructions were given and we just needed to make some changes in the queries to get the required answer
 *	After the chapter was completed, I did the quiz where I was to select correct queries
-* SELECT name
+
+### 1 SELECT name (voluntary)
 *	The chapter deals with use of ‘LIKE’ in queries
 *	I had to modify the given query to find the answer
 *	The first 10 queries were easier ones but the last few were a bit harder.
 
-## 2 SELECT world
+### 2 SELECT world
 *	The chapter deals with the use of SELECT in queries
 *	I had to write queries to find correct answers from the WORLD table
 *	I was required to do till sub task 5 but I did till subtask 10.
