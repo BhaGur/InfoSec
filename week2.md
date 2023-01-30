@@ -1,7 +1,8 @@
 # Week 2 Assignments
 This file tasks for the assignments for Information security course. It conatins the step I did while performing the tasks for the assignment.
 
-## Security misconfiguration
+## Summary of the OWASP top-10 list
+### Security misconfiguration
 *	A lapse in the security architecture causes vulnerability of applications
 *	Main causes for security main configuration are missing of appropriate security in application
 *	It may happen also if unnecessary features are enabled or installed or the software used are out of date
@@ -13,7 +14,7 @@ This file tasks for the assignments for Information security course. It conatins
 *	Hardening of security and segmentation of the application architecture
 *	Removal of unwanted or unused features
 
-## Vulnerable and Outdated components
+### Vulnerable and Outdated components
 *	This vulnerability concerns with the versions of the components on both client and server side.
 *	This usually is because of the unsecure, out of date software in the server including the OS, application server, DATABASE, an all components
 *	Not testing the compatibility of updated, upgraded or patched library leaving organization exposed to vulnerabilities
@@ -22,7 +23,7 @@ This file tasks for the assignments for Information security course. It conatins
 *	Removal of unused software or programs and files can patch the application
 *	Components should be obtained through secure links and continuously monitor the components on both server and client side.
 
-Injection
+### Injection
 *	The vulnerability occurs as a result of unvalidated, unfiltered user-supplied data
 *	Use of hostile data in object-relational mapping search parameters
 *	SQL or commands containing malicious data
