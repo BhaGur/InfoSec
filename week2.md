@@ -1,5 +1,5 @@
 # Week 2 Assignments
-This file tasks for the assignments for Information security course. It conatins the step I did while performing the tasks for the assignment.
+This file tasks for the assignments for Information security course. It conatins the step I did while performing the tasks for the assignment. The file also contains a summary of some of the vulnerabilities of OWASP top 10 from 2022. I have also summarised an episode from Darknet Diaries in the file.
 
 ## Summary of the OWASP top-10 list
 ### Security misconfiguration
@@ -103,3 +103,7 @@ This file tasks for the assignments for Information security course. It conatins
 
 *	I was able to drop table with the following code and was successful.
 <img src="https://github.com/BhaGur/InfoSec/blob/main/webgoat11.png" width="400" height="150"> 
+
+## References
+* https://owasp.org/Top10
+* https://darknetdiaries.com/episode/124/
