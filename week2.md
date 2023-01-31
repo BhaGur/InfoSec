@@ -50,6 +50,7 @@ This file tasks for the assignments for Information security course. It conatins
 *	The chapter deals with use of ‘LIKE’ in queries
 *	I had to modify the given query to find the answer
 <img src="https://github.com/BhaGur/InfoSec/blob/main/sqlzoo2.png" width="400" height="150"> 
+
 *	The first 10 queries were easier ones but the last few were a bit harder.
 
 ### 2 SELECT world
@@ -83,6 +84,7 @@ This file tasks for the assignments for Information security course. It conatins
 *	In the next task, I had to retrieve data of users. I used the following query in the input
 <img src="https://github.com/BhaGur/InfoSec/blob/main/webgoat8.png" width="400" height="150"> 
 <img src="https://github.com/BhaGur/InfoSec/blob/main/webgoat7.png" width="400" height="150"> 
+
 * After that I was able to compromise the confidentiality of data and see the salary of other employees
 * In this task I had to set the salary of Smith to what is in the database. I used the following code and I was able to increase the salary of Smith with userid number = 37648.
 <img src="https://github.com/BhaGur/InfoSec/blob/main/webgoat10.png" width="400" height="150"> 
