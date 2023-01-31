@@ -32,13 +32,18 @@ This file tasks for the assignments for Information security course. It conatins
 *	To prevent injection, application should use safe API
 *	Remove any unwanted injection by limiting control in SQL queries
 
-## Episode - 124 Synthetic Remittance*
+## Episode - 124 Synthetic Remittance
 * This episode told a real story about get-rich-quick scheme
 * A Lithuanian man named Evaldas Rimasaukas conducted a Business E-mail Compromise (BEC) scam that made big companies like Facebook and Google to make fake payments to him rather than another business that worked with those companies
 * He and his team bought a fake domain of a company and made fake invoices which were sent to facebook and google
 * The team researched about the payment mechanism of those companies and also copied the real invoice that the partner business used
 * The bank account was also changed so the money will go to his bank account
-* 
+* The money once recieved would be transfered to other bank all over the world to make it hard to trail the money
+* The security system was not breached or compromised in this instance but the method was spear phising or spoofed emails.
+* The business needs to be aware of such scams
+* If a big corporations can be a victim of such scams, it is likely that small business would also be a target
+* Security is not just about building a secure architecture but also being cautiuos about other forms of scams
+
 ## CVE-2022-46689
 *	A vulnerability seen in Apple macOS which abled an app to execute arbitrary code with kernel privileges.
 *	The severity of the CVE was 7.0 high according to CVSS version 3.x. The impact score was 5.9.
