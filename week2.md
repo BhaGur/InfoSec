@@ -65,16 +65,21 @@ This file tasks for the assignments for Information security course. It conatins
 *	Data Manipulation Language (DML) is the manipulation of the SQL statement used by attacker to manipulate the database
 *	After each sub chapter, I had to do an assignment. I had to update a SQL query as below.
 <img src="https://github.com/BhaGur/InfoSec/blob/main/webgoat1.png" width="400" height="150"> 
+
 *	Another task required us to add a column to the employees table. I completed the task as given in the image below
 <img src="https://github.com/BhaGur/InfoSec/blob/main/webgoat2.png" width="400" height="150"> 
+
 *	Another task was to grant permission to a user group which I completed as below
 <img src="https://github.com/BhaGur/InfoSec/blob/main/webgoat3.png" width="400" height="150"> 
+
 *	SQL injection exploits by modifying the input and inputting malicious code and allows attackers to temper with existing data
 *	Another task was to retrieve data by selecting an sql injection which I did as below
 <img src="https://github.com/BhaGur/InfoSec/blob/main/webgoat4.png" width="400" height="150"> 
+
 *	The injection task was completed as below. First I tried to input the code in Login_Count. The solution was not correct. Then I input the code in the User_id, then the injection worked and I was able to get the data of the user from the database
 <img src="https://github.com/BhaGur/InfoSec/blob/main/webgoat5.png" width="400" height="150"> 
 <img src="https://github.com/BhaGur/InfoSec/blob/main/webgoat6.png" width="400" height="150"> 
+
 *	In the next task, I had to retrieve data of users. I used the following query in the input
 <img src="https://github.com/BhaGur/InfoSec/blob/main/webgoat8.png" width="400" height="150"> 
 <img src="https://github.com/BhaGur/InfoSec/blob/main/webgoat7.png" width="400" height="150"> 
