@@ -32,7 +32,7 @@ This file tasks for the assignments for Information security course. It conatins
 *	To prevent injection, application should use safe API
 *	Remove any unwanted injection by limiting control in SQL queries
 
-## Episode - 124 Synthetic Remittance
+## Episode - 124 Synthetic Remittance (Darknet Diaries)
 * This episode told a real story about get-rich-quick scheme
 * A Lithuanian man named Evaldas Rimasaukas conducted a Business E-mail Compromise (BEC) scam that made big companies like Facebook and Google to make fake payments to him rather than another business that worked with those companies
 * He and his team bought a fake domain of a company and made fake invoices which were sent to facebook and google
