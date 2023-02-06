@@ -37,4 +37,13 @@ Technique represents the method used by the adversary to achieve a tactical goal
 ### Procedure
 Procedure is a specific way adversary uses to implement the technique of sub-technique. Adversaries scan IP blocks to gather victim network information such as IP addresses that are actively in use.
 
+## Webgoat: A3 Sensitive data exposure
+### Insecure Login: 
+This task deals with packet sniffer usage and with the completion of the task I was able to intercept and read unencrypted requests.
+* First I put in my username and password, which resulted in unsuccessful attempt.
+* Then I went to web development tools and in the network tab, I was able to read a post when I clicked login button.
+* The query start.mvc had parameters containing both username and password.
+* When I input the parameters and login, I was successful.  
+
+<img src="https://github.com/BhaGur/InfoSec/blob/main/webgoat12.png" width="400" height="150"> 
 
