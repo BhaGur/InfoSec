@@ -20,7 +20,7 @@ This file contains the tasks for the week 3 ATT&CK of security information cours
 *	All the information about the technique, such as sub-techniques, platforms it operates on and data sources can be read.
 *	Recommended detections and a list of mitigations to prevent the technique can also be found.
 
-<img src="https://github.com/BhaGur/InfoSec/blob/main/attack1.png" > 
+<img src="https://github.com/BhaGur/InfoSec/blob/main/attack1.png" width="600" height="350"> 
 
 
 ### ATT&CK Navigator
@@ -32,7 +32,7 @@ This file contains the tasks for the week 3 ATT&CK of security information cours
 Tactic is an action performed by the threat actors to achieve a specific goal. It represents the “why” of an ATT&CK. Reconnaissance is one of the examples of a tactic used by the adversary. The adversary gathers information which can be used to plan an action in the future. There are many techniques that an adversary uses in this tactic. They are passively or actively gathering information about the details of the victim. Some of the techniques used are active scanning, gather victim identity information, gather victim organization information.
 ### Technique and Sub-technique
 Technique represents the method used by the adversary to achieve a tactical goal. It represents the “how” of an ATT&CK. Technique can branch out to have multiple sub-techniques. In Reconnaissance, adversary uses Active Scanning technique to gather information that can be used during targeting. There are 3 sub-techniques of Active Scanning. One of the sub-technique is Scanning IP Blocks where adversary scans victim’s IP blocks to gather information. Scans may range from simple pings to more nuanced scans that reveals as host software/versions.
-<img src="https://github.com/BhaGur/InfoSec/blob/main/attack2.png" > 
+<img src="https://github.com/BhaGur/InfoSec/blob/main/attack2.png" width="600" height="350"> 
 
 ### Procedure
 Procedure is a specific way adversary uses to implement the technique of sub-technique. Adversaries scan IP blocks to gather victim network information such as IP addresses that are actively in use.
