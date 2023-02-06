@@ -20,6 +20,7 @@ This file contains the tasks for the week 3 ATT&CK of security information cours
 *	All the information about the technique, such as sub-techniques, platforms it operates on and data sources can be read.
 *	Recommended detections and a list of mitigations to prevent the technique can also be found.
 
+<img src="https://github.com/BhaGur/InfoSec/blob/main/attack1.png" > 
 
 
 ### ATT&CK Navigator
