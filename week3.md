@@ -47,3 +47,6 @@ This task deals with packet sniffer usage and with the completion of the task I 
 
 <img src="https://github.com/BhaGur/InfoSec/blob/main/webgoat12.png" width="400" height="150"> 
 
+## References
+* Costa-Gazcón 2021: Practical Threat Intelligence and Data-Driven Threat Hunting Chapter 4: Mapping the Adversary
+* https://attack.mitre.org/
