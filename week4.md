@@ -24,18 +24,18 @@ the file also contains steps about installing Hashcat and using it to crack a pr
 ### Installing Hashcat
 I installed Hashcat according to steps given in Karvinen 2022: Cracking Passwords with Hashcat
 *	I installed the hashcat using the following code
-<img src="https://github.com/BhaGur/InfoSec/blob/main/hashcat1.png" width="600" height="150"> 
+<img src="https://github.com/BhaGur/InfoSec/blob/main/hashcat1.png" width="600" height="200"> 
 
 *	After that I created a directory and downloaded a database with password.
 <img src="https://github.com/BhaGur/InfoSec/blob/main/hashcat2.png" width="600" height="150"> 
 
 *	I tried to get the first 10 words of the file
-<img src="https://github.com/BhaGur/InfoSec/blob/main/hashcat3.png" width="600" height="150"> 
+<img src="https://github.com/BhaGur/InfoSec/blob/main/hashcat3.png" width="600" height="200"> 
 
 
 ### Cracking the code
 *	To crack the given code, I used the following code as shown in the picture
-<img src="https://github.com/BhaGur/InfoSec/blob/main/hashcat4.png" width="600" height="150"> 
+<img src="https://github.com/BhaGur/InfoSec/blob/main/hashcat4.png" width="600" height="200"> 
 
 *	Once the code was entered, the session started and once the code was cracked the status changed to ‘Cracked’.
 <img src="https://github.com/BhaGur/InfoSec/blob/main/hashcat5.png" width="600" height="150"> 
