@@ -20,5 +20,20 @@ the file also contains steps about installing Hashcat and using it to crack a pr
 * As hash function is public there is no secrecy to the process.
 * For example, if you want to make sure that somebody has a particular file, you can ask for the hash value. Normally the hash function is without a key but a secret key can be created and only the person with the key can verify the hash value.
 
+## Hashcat
+### Installing Hashcat
+I installed Hashcat according to steps given in Karvinen 2022: Cracking Passwords with Hashcat
+*	I installed the hashcat using the following code
+
+*	After that I created a directory and downloaded a database with password.
+*	I tried to get the first 10 words of the file
+
+### Cracking the code
+*	To crack the given code, I used the following code as shown in the picture
+*	Once the code was entered, the session started and once the code was cracked the status changed to ‘Cracked’.
+*	Then I input the code ‘ cat solved’ and the answer was shown along with the hash
+*	The answer was february.
+
+
 ## References
 * Schneier 2015: Applied Cryptography: 2.3 One-Way Functions and 2.4 One-Way Hash Functions.
