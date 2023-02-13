@@ -1,7 +1,8 @@
-## Week 4 assignment
+# Week 4 assignment (Hash)
 This file consists of the tasks regarding week 4 assignment. The topics below consists of summary of two chapters about One-way function and One-way hash function.
 the file also contains steps about installing Hashcat and using it to crack a provided code.
 
+## Applied Cryptography Chapter 2
 ### 2.3 One-way functions
 * One-way function is an important element to public-key cryptography.
 * Though it is easy to compute, but to reverse will be an uphill task.
