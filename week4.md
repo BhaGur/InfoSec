@@ -35,10 +35,10 @@ I installed Hashcat according to steps given in Karvinen 2022: Cracking Password
 
 ### Cracking the code
 *	To crack the given code, I used the following code as shown in the picture
-<img src="https://github.com/BhaGur/InfoSec/blob/main/hashcat4.png" width="600" height="200"> 
+<img src="https://github.com/BhaGur/InfoSec/blob/main/hashcat4.png" width="600" height="150"> 
 
 *	Once the code was entered, the session started and once the code was cracked the status changed to ‘Cracked’.
-<img src="https://github.com/BhaGur/InfoSec/blob/main/hashcat5.png" width="600" height="150"> 
+<img src="https://github.com/BhaGur/InfoSec/blob/main/hashcat5.png" width="600" height="200"> 
 
 *	Then I input the code ‘ cat solved’ and the answer was shown along with the hash
 *	The answer was february.
