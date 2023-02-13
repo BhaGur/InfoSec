@@ -20,5 +20,5 @@ the file also contains steps about installing Hashcat and using it to crack a pr
 * As hash function is public there is no secrecy to the process.
 * For example, if you want to make sure that somebody has a particular file, you can ask for the hash value. Normally the hash function is without a key but a secret key can be created and only the person with the key can verify the hash value.
 
-## Refernces
+## References
 * Schneier 2015: Applied Cryptography: 2.3 One-Way Functions and 2.4 One-Way Hash Functions.
