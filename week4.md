@@ -24,21 +24,21 @@ the file also contains steps about installing Hashcat and using it to crack a pr
 ### Installing Hashcat
 I installed Hashcat according to steps given in Karvinen 2022: Cracking Passwords with Hashcat
 *	I installed the hashcat using the following code
-<img src="https://github.com/BhaGur/InfoSec/blob/main/hashcat1.png" width="600" height="200"> 
+  <img src="https://github.com/BhaGur/InfoSec/blob/main/hashcat1.png" width="600" height="200"> 
 
 *	After that I created a directory and downloaded a database with password.
-<img src="https://github.com/BhaGur/InfoSec/blob/main/hashcat2.png" width="600" height="150"> 
+  <img src="https://github.com/BhaGur/InfoSec/blob/main/hashcat2.png" width="600" height="150"> 
 
 *	I tried to get the first 10 words of the file
-<img src="https://github.com/BhaGur/InfoSec/blob/main/hashcat3.png" width="600" height="200"> 
+  <img src="https://github.com/BhaGur/InfoSec/blob/main/hashcat3.png" width="600" height="200"> 
 
 
 ### Cracking the code
 *	To crack the given code, I used the following code as shown in the picture
-<img src="https://github.com/BhaGur/InfoSec/blob/main/hashcat4.png" width="600" height="150"> 
+  <img src="https://github.com/BhaGur/InfoSec/blob/main/hashcat4.png" width="600" height="150"> 
 
 *	Once the code was entered, the session started and once the code was cracked the status changed to ‘Cracked’.
-<img src="https://github.com/BhaGur/InfoSec/blob/main/hashcat5.png" width="600" height="200"> 
+  <img src="https://github.com/BhaGur/InfoSec/blob/main/hashcat5.png" width="600" height="200"> 
 
 *	Then I input the code ‘ cat solved’ and the answer was shown along with the hash
 *	The answer was february.
@@ -46,40 +46,42 @@ I installed Hashcat according to steps given in Karvinen 2022: Cracking Password
 ## John The Ripper
 ### Installing John The Ripper
 *	First I installed the re-requisites as follows
-<img src="https://github.com/BhaGur/InfoSec/blob/main/johnripper1.png" width="600" height="200"> 
+  <img src="https://github.com/BhaGur/InfoSec/blob/main/johnripper1.png" width="600" height="200"> 
 
 *	Then, I downloaded or cloned john the Ripper version with the help of the following command as shown in the picture
-<img src="https://github.com/BhaGur/InfoSec/blob/main/johnripper2.png" width="600" height="200"> 
+  <img src="https://github.com/BhaGur/InfoSec/blob/main/johnripper2.png" width="600" height="200"> 
 
 *	Then I had to configure the file 
-<img src="https://github.com/BhaGur/InfoSec/blob/main/johnripper3.png" width="600" height="200"> 
+  <img src="https://github.com/BhaGur/InfoSec/blob/main/johnripper3.png" width="600" height="200"> 
 
 *	Then after the configuration, a correct make command is printed in the end which I copied and run to compile John
-<img src="https://github.com/BhaGur/InfoSec/blob/main/johnripper4.png" width="600" height="200"> 
+  <img src="https://github.com/BhaGur/InfoSec/blob/main/johnripper4.png" width="600" height="200"> 
 
 *	Finally John The Ripper was downloaded and I could see the version downloaded by running the following command
-<img src="https://github.com/BhaGur/InfoSec/blob/main/johnripper6.png" width="600" height="200"> 
+  <img src="https://github.com/BhaGur/InfoSec/blob/main/johnripper6.png" width="600" height="200"> 
 
 ### Cracking zip file
 *	The zip file was downloaded using the following commands from TeroKarvinen.com
-<img src="https://github.com/BhaGur/InfoSec/blob/main/johnripper7.png" width="600" height="200"> 
+  <img src="https://github.com/BhaGur/InfoSec/blob/main/johnripper7.png" width="600" height="200"> 
 
 *	I tried to unzip the file but was not successful
-<img src="https://github.com/BhaGur/InfoSec/blob/main/johnripper8.png" width="600" height="200"> 
+  <img src="https://github.com/BhaGur/InfoSec/blob/main/johnripper8.png" width="600" height="200"> 
 
 *	I then followed next step to extract the hash into a new file
-<img src="https://github.com/BhaGur/InfoSec/blob/main/johnripper8.png" width="600" height="200"> 
+  <img src="https://github.com/BhaGur/InfoSec/blob/main/johnripper8.png" width="600" height="200"> 
 
 *	Next I used command to let John attack the hash.
-<img src="https://github.com/BhaGur/InfoSec/blob/main/johnripper9.png" width="600" height="200"> 
+   <img src="https://github.com/BhaGur/InfoSec/blob/main/johnripper9.png" width="600" height="200"> 
 
 *	The attack resulted in printing the password as a key line (in brown colour)
 *	The password is ‘butterfly’ which I used to unzip the file
-<img src="https://github.com/BhaGur/InfoSec/blob/main/johnripper10.png" width="600" height="200"> 
+  <img src="https://github.com/BhaGur/InfoSec/blob/main/johnripper10.png" width="600" height="200"> 
 
 * The SECRET file contained a message as follows
-<img src="https://github.com/BhaGur/InfoSec/blob/main/johnripper11png" width="600" height="200"> 
+  <img src="https://github.com/BhaGur/InfoSec/blob/main/johnripper11.png" width="600" height="200"> 
 
 
 ## References
 * Schneier 2015: Applied Cryptography: 2.3 One-Way Functions and 2.4 One-Way Hash Functions.
+* https://terokarvinen.com/2022/cracking-passwords-with-hashcat/
+* https://terokarvinen.com/2023/crack-file-password-with-john/
