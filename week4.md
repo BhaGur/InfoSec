@@ -79,6 +79,7 @@ I installed Hashcat according to steps given in Karvinen 2022: Cracking Password
 
 
 * The SECRET file contained a message as follows
+
   <img src="https://github.com/BhaGur/InfoSec/blob/main/johnripper11.png" width="600" height="200"> 
 
 
