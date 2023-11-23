@@ -45,7 +45,7 @@ I installed Hashcat according to steps given in Karvinen 2022: Cracking Password
 
 ## John The Ripper
 ### Installing John The Ripper
-*	First I installed the re-requisites as follows
+*	First I installed the pre-requisites as follows
   <img src="https://github.com/BhaGur/InfoSec/blob/main/johnripper1.png" width="600" height="200"> 
 
 *	Then, I downloaded or cloned john the Ripper version with the help of the following command as shown in the picture
